@@ -25,10 +25,15 @@ A fully responsive, full-stack web platform developed for **ZOOM CARS** (https:/
 ## 📂 Folder Structure 
 
 zoom-cars-showroom/
+
 ├── admin/ # Admin panel files
+
 ├── assets/ # CSS, JS, Images
+
 ├── includes/ # Common PHP includes
+
 ├── listings/ # Car listing pages
+
 ├── index.html / index.php
 
 
